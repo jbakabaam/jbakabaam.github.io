@@ -105,8 +105,8 @@ author:
   name             : "JB"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analyst"
-  location         : "Seoul, Republic of Korea"
-  email            : "jbakabaam@gmail.com"
+  location         : # "Seoul, Republic of Korea"
+  email            : # "jbakabaam@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
